@@ -1,0 +1,38 @@
+{
+    "1": {
+        "Name": "neelam",
+        "Designation": "programer",
+        "age": "24",
+        "salary": "2400"
+    },
+    "2": {
+        "Name": "komal",
+        "Designation": "trainer",
+        "age": "24",
+        "salary": "20000"
+    },
+    "3": {
+        "Name": "anuradha",
+        "Designation": "HR",
+        "age": "25",
+        "salary": "40000"
+    },
+    "4": {
+        "Name": "Abhishek",
+        "Designation": "manager",
+        "age": "29",
+        "salary": "63000"
+    },
+    "5": {
+        "Name": "sheetal",
+        "Designation": "student",
+        "age": "18",
+        "salary": "0000"
+    },
+    "6": {
+        "Name": "aarti",
+        "Designation": "developer",
+        "age": "23",
+        "salary": "50000"
+    }
+}
